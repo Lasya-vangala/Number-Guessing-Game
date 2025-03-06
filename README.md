@@ -16,19 +16,17 @@ The **Number Guessing Game** is a Python-based game where the player tries to gu
 ## How to Run
 1. Make sure you have **Python** installed.
 2. Clone the repository or download the script:
-   ```bash
-   git clone https://github.com/Lasya-vangala/number-guessing-game.git
+
+   git clone **https://github.com/Lasya-vangala/number-guessing-game.git**
 
 ## Navigate to the project folder:
   cd number-guessing-game
-Run the script:
+## Run the script:
   python number_guessing.py
 
 
 ## Screenshots 📂
 
-   Screenshots of the game output are available in the screenshots/ folder.
-
-
+   Screenshots of the game output are available in the **[screenshots/](screenshots/)** .
     Thank You for Playing! 🎉
 
